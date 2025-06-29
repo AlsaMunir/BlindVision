@@ -3,15 +3,15 @@ This project aims to empower individuals who are visually impaired by transformi
 
 **Key Features**
 
-- Real-time Object Detection: Identifies common obstacles and objects using a trained machine learning model.
+- **Real-time Object Detection:** Identifies common obstacles and objects using a trained machine learning model.
 
-- Depth Estimation: Calculates the distance of objects from the user to provide spatial awareness.
+- **Depth Estimation**: Calculates the distance of objects from the user to provide spatial awareness.
 
-- Voice Feedback: Offers instant audio guidance to alert users about nearby obstacles.
+- **Voice Feedback:** Offers instant audio guidance to alert users about nearby obstacles.
 
-- Mobile-Friendly: Designed to run on smartphones for convenient, everyday use.
+- **Mobile-Friendly:** Designed to run on smartphones for convenient, everyday use.
 
-Accessibility First: Built with a focus on usability and safety for individuals with visual impairments.
+- **Accessibility First:** Built with a focus on usability and safety for individuals with visual impairments.
 
 **Tech Stack**
 
