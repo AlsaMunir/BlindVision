@@ -1,29 +1,32 @@
-A Smartphone-Based Mobility Assistant Using Depth Imaging for Visually Impaired and Blind
-This Final Year Project aims to empower visually impaired individuals by turning a smartphone into an intelligent mobility assistant. By combining object detection, depth estimation, and real-time auditory feedback, the system helps users navigate their surroundings more safely and independently.
+**A Smartphone-Based Mobility Assistant Using Depth Imaging for Visually Impaired and Blind**
+This project aims to empower individuals who are visually impaired by transforming a smartphone into an intelligent mobility assistant. By combining object detection, depth estimation, and real-time auditory feedback, the system helps users navigate their surroundings more safely and independently.
 
-Key Features
-Real-time Object Detection: Identifies common obstacles and objects using a trained machine learning model.
+**Key Features**
 
-Depth Estimation: Calculates the distance of objects from the user to provide spatial awareness.
+- Real-time Object Detection: Identifies common obstacles and objects using a trained machine learning model.
 
-Voice Feedback: Offers instant audio guidance to alert users about nearby obstacles.
+- Depth Estimation: Calculates the distance of objects from the user to provide spatial awareness.
 
-Mobile-Friendly: Designed to run on smartphones for convenient, everyday use.
+- Voice Feedback: Offers instant audio guidance to alert users about nearby obstacles.
 
-Accessibility First: Built with a focus on usability and safety for the visually impaired.
+- Mobile-Friendly: Designed to run on smartphones for convenient, everyday use.
 
-Tech Stack
-Python, OpenCV, TensorFlow / PyTorch
+Accessibility First: Built with a focus on usability and safety for individuals with visual impairments.
 
-Mobile integration (e.g., Android with Java/Kotlin or Flutter)
+**Tech Stack**
 
-Text-to-Speech APIs for auditory feedback
+- Python, OpenCV, TensorFlow / PyTorch
 
-Depth imaging via stereo camera or smartphone depth sensors
+- Mobile integration (e.g., Android with Java/Kotlin or Flutter)
 
-Goals
-Improve independent mobility for the blind and visually impaired
+- Text-to-Speech APIs for auditory feedback
 
-Deliver accurate, real-time detection and navigation assistance
+- Depth imaging via stereo camera or smartphone depth sensors
 
-Leverage affordable smartphone hardware for wide accessibility
+**Goals**
+
+- Improve independent mobility for the blind and visually impaired
+
+- Deliver accurate, real-time detection and navigation assistance
+
+- Leverage affordable smartphone hardware for wide accessibility
